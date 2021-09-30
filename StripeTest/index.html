@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<head>
+    <!-- Mobile viewport settings, avoid scroll/scale -->
+    <meta name="viewport"
+        content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+
+    <title>Stripe Test</title>
+    <!-- Stripe -->
+    <script src="https://js.stripe.com/v3/"></script>
+    <!-- Firebase stuff -->
+    <!-- Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-firestore.js"></script>
+    <script src="firebaseConfig.js"></script>
+    <!-- Not firebase stuff -->
+    <script src="phaser.js"></script>
+    <script src="MainScene.js"></script>
+</head>
+
+<body>
+    <div id="game"></div>
+    <script src="game.js"></script>
+</body>
