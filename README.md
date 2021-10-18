@@ -8,5 +8,4 @@
 
 #### Website: www.linkedin.com/in/loickonan
 
-<img src="pic.png" width="200" height= "200">
-# Mobile-Games---Js
+<img src="pic1.png" width="400" height= "400">
