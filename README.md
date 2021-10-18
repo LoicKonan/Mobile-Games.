@@ -8,4 +8,4 @@
 
 #### Website: www.linkedin.com/in/loickonan
 
-<img src="pic1.png" width="400" height= "400">
+<img src="pic2.png" width="400" height= "400">
